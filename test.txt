@@ -1,0 +1,10 @@
+vendor
+vendor_id vendor_name vendor_url vendor_store_path video_sample_path last_product_id last_time_update
+
+product
+product_id vendor_id vendor_product_id product_name product_web_url video_sample_url thumbnail_url cover_url post_url
+
+find product id
+download preview 
+download cover
+
